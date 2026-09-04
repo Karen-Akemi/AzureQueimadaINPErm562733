@@ -1,5 +1,5 @@
 variable "location" {
-  default = "westus2"
+  default = "mexicocentral"
 }
 
 variable "resource_group_name" {
