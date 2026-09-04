@@ -1,5 +1,5 @@
 variable "location" {
-  default = "canadacentral"
+  default = "westus2"
 }
 
 variable "resource_group_name" {
